@@ -1,4 +1,4 @@
-pyhton
+python
 gitdb
 GitPython
 idna
